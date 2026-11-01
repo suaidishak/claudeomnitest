@@ -2,6 +2,8 @@
 
 Tic Tac Toe — a small, dependency-free web game.
 
+**Play online:** https://suaidishak.github.io/claudeomnitest/
+
 ## Play
 
 Open `index.html` in any modern browser (double-click it, or drag it into a tab).
